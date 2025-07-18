@@ -42,7 +42,7 @@ public class StartMenuController : MonoBehaviour
     {
         SceneManager.LoadScene(sceneName);
         //SceneManager.LoadScene("SampleScene");
-
+        Resume();
     }
 
     public void OnExitClick()
