@@ -1331,7 +1331,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 2
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
@@ -1580,9 +1580,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 2752023762402576496, guid: a00a3201111b0d74ab08e4d4c9816daa, type: 3}
-  spawnRate: 3
-  timer: 5
-  heightOffset: 8
+  spawnRate: 2
+  timer: 0
+  heightOffset: 10
 --- !u!4 &1085352736
 Transform:
   m_ObjectHideFlags: 0
