@@ -1376,7 +1376,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRigidbody: {fileID: 680589731}
   flapStr: 9
-  logic: {fileID: 0}
+  logic: {fileID: 1937944569}
   birdIsAlive: 1
 --- !u!58 &680589734
 CircleCollider2D:
